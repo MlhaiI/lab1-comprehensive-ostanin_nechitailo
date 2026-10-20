@@ -1,0 +1,4 @@
+#z
+def calculate_discount(price):
+    return price * 0.9
+
